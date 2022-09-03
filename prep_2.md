@@ -32,8 +32,13 @@
 
 
 ## What is the minimum required for you to present on your demo day?
-- Map Centric
-- Save Locations
+- Map Search and Desplay
+- Save Favorite Locations and User data
+- Routes for About page and Profile Page
+- 2 additional APIs referenced and displayed
+- User authentication
+- Accordion displaying additional search results
+- Favorite locations list within profile page
 
 ## Miro Link:
 https://miro.com/app/board/uXjVPa3MprQ=/
